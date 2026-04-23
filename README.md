@@ -1,3 +1,4 @@
+
 # 🚀 Running the DevOps Springer API
 
 ## 🧱 Prerequisites
@@ -74,6 +75,12 @@ Ctrl + C
 * If dependencies are missing, reinstall using pip
 
 ---
+<img width="2860" height="1330" alt="96EB46F2-05CC-43FE-8564-E458A326B362" src="https://github.com/user-attachments/assets/4a3b5c21-e1dc-4f13-9cdb-580e04daee10" />
+
+<img width="1608" height="936" alt="CC9E553C-EEC0-4958-BB89-20A687148062" src="https://github.com/user-attachments/assets/db28707e-2116-4114-9074-5a06158364af" />
+
+<img width="1576" height="922" alt="B0D1F9B3-CE83-4CBB-99E9-C4BBA625838D" src="https://github.com/user-attachments/assets/ec7def0d-0ca2-4158-8c07-8e589721fe58" />
+
 
 ## 🎭 Why this exists
 
