@@ -79,5 +79,5 @@ Ctrl + C
 
 This project simulates DevOps workflows using a narrative-driven approach inspired by Jerry Springer show (because production failures are basically reality TV).
 
-<img width="498" height="356" alt="image" src="https://github.com/user-attachments/assets/3a77a2b9-68da-4661-892f-7ba3e51bbbca" />
+![Jerry Chaos](https://media1.tenor.com/m/-is6u2LpO4QAAAAC/jerry-springer.gif)
 
